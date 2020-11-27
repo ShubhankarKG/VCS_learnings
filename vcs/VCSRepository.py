@@ -1,6 +1,6 @@
 import os
 import configparser
-from utils import repo_file
+from .utils import repo_file
 
 class VCSRepository(object):
     """A VCS Repository"""

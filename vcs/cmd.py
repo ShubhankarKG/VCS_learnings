@@ -1,6 +1,6 @@
-from VCSRepository import VCSRepository
+from .VCSRepository import VCSRepository
 import os
-from utils import repo_default_config, repo_dir, repo_file
+from .utils import repo_default_config, repo_dir, repo_file
 
 
 def repo_create(path):
