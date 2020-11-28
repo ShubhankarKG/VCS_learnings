@@ -1,7 +1,11 @@
 language: python
-python:
-  - "3.6"
-  - "3.7"
+matrix:
+  include:
+    - python: 3.6
+      env: TOXENV=36
+    - python: 3.5
+      env: TOXENV=35
+
 install:
   - pip install -r requirements.txt
 script:
