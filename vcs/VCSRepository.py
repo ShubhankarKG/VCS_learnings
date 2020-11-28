@@ -6,7 +6,7 @@ class VCSRepository(object):
     """A VCS Repository"""
 
     worktree = None
-    vcsdir: str = None
+    vcsdir = None
     conf = None
 
     def __init__(self, path, force=False):

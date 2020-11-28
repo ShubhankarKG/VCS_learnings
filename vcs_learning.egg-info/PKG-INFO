@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: vcs-learning
+Version: 0.1
+Summary: Learning to develop a Version Control System
+Home-page: https://github.com/ShubhankarKG/VCS_learnings.git
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: AGPL-3.0-or-later
+Description: UNKNOWN
+Keywords: git version-control
+Platform: UNKNOWN
+Classifier: Development Status :: In Progress
+Classifier: Intended Audience :: Developers
+Classifier: License :: GNU AFFERO GENERAL PUBLIC LICENSE
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.7

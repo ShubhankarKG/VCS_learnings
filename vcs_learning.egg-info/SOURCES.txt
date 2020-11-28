@@ -1,0 +1,5 @@
+setup.py
+vcs_learning.egg-info/PKG-INFO
+vcs_learning.egg-info/SOURCES.txt
+vcs_learning.egg-info/dependency_links.txt
+vcs_learning.egg-info/top_level.txt
